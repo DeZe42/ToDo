@@ -268,7 +268,7 @@ $dark-very-dark-grayish-blue: hsl(233, 14%, 35%);
             padding: 0 32px;
             &--card {
                 top: -5%;
-                left: 32px;
+                left: unset;
                 width: calc(100% - 64px);
                 max-height: 80%;
                 .footer {
